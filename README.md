@@ -16,4 +16,4 @@ else:
 Reflexión personal
 Aprender a programar me ha ayudado a pensar de forma más lógica. Me gustó ver cómo un código puede resolver problemas reales.
 Referencias IA
-https://chat.openai.com/  
+ChatGPT: conversación sobre variables en Python (https://chat.openai.com/)
