@@ -1,7 +1,7 @@
 # Mi primera página - Yeferson David Rodriguez Gomez 
 
 ## ¿Qué vimos en clase?
-Aprendimos qué es un programa, una variable, tipos de datos, condicionales y bucles en Python.
+En clase aprendimos los conceptos básicos de programación con Python. Vimos qué es un programa, cómo usar variables para guardar información y los tipos de datos más comunes. También aprendimos a usar condicionales (if, else) para tomar decisiones y bucles (for, while) para repetir acciones. Todo esto nos ayuda a entender cómo pensar de forma lógica y resolver problemas con código.
 
 ## Ejemplo en Python
 ```python
